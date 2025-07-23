@@ -56,19 +56,19 @@ To mitigate current and voltage harmonics in the power system by designing and s
 - Simulink model of a nonlinear load connected to the grid.
 - FFT shows presence of dominant harmonic frequencies.
 ### 🔌 1. Grid Without Filter
-![Grid Without Filter](images/grid_without_filter.png.png)
+![Grid Without Filter](images/grid_without_filter.png)
 
 ### 2️⃣ With Single Tuned Filter
 - Reduced specific harmonic (e.g. 11th).
 - Impedance and FFT plots confirm harmonic suppression.
 ### 🔁 2. With Single Tuned Filter
-![Single Tuned Filter](images/single_tuned_filter.png.png)
+![Single Tuned Filter](images/single_tuned_filter.png)
 
 ### 3️⃣ With Double Tuned Filter
 - Suppresses both 11th and 13th harmonics efficiently.
 - FFT shows significant harmonic reduction and improved waveform.
 ### 🎯 3. With Double Tuned Filter
-![Double Tuned Filter](images/double_tuned_filter.png.png)
+![Double Tuned Filter](images/double_tuned_filter.png)
 
 ---
 
